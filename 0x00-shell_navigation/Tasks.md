@@ -17,3 +17,13 @@ Access your sandbox and:
 **Advices**:
 - Don’t forget to validate your current working directory
 - Don’t forget to display the list of files of your current directory to validate the copy of the file
+
+
+## To old
+Access your sandbox and:
+- Change your working directory to `/root`
+- Then, rename the file `old_school` to `new_school` (in the same directory)
+
+**Advices**:
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of files of your current directory to validate the renaming of the file
