@@ -57,3 +57,13 @@ Access your sandbox and:
 **Advices**:
 - Don’t forget to validate your current working directory
 - Don’t forget to display the list of directories of your current directory to validate the creation of the directory
+
+
+## 6. No need
+Access your sandbox and:
+- Change your working directory to `/root`
+- Then, remove the directory `empty_directory`
+
+**Advices**:
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of directories of your current directory to validate the removal of the directory
