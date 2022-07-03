@@ -27,3 +27,14 @@ Access your sandbox and:
 **Advices**:
 - Don’t forget to validate your current working directory
 - Don’t forget to display the list of files of your current directory to validate the renaming of the file
+
+
+## Not here
+Access your sandbox and:
+- Change your working directory to `/root`
+- Then, move the file `not_here` to `/tmp/right_school`
+
+**Advices**:
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of files of your current directory to validate the move of the file
+
