@@ -47,3 +47,13 @@ Access your sandbox and:
 **Advices**:
 - Don’t forget to validate your current working directory
 - Don’t forget to display the list of files of your current directory to validate the removal of the file
+
+
+## 5. Organization is key!
+Access your sandbox and:
+- Change your working directory to `/root`
+- Then, create a directory `school_is_amazing`
+
+**Advices**:
+- Don’t forget to validate your current working directory
+- Don’t forget to display the list of directories of your current directory to validate the creation of the directory
