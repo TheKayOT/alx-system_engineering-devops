@@ -26,3 +26,9 @@ Write the answer into the file `/root/0x01_emacs/saving`.
 What is the command to cut an entire line?
 
 Write the answer into the file `/root/0x01_emacs/cutting`.
+
+
+## 4. Pasting 
+What is the command to paste?
+
+Write the answer into the file `/root/0x01_emacs/pasting`.
