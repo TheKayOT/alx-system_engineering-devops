@@ -32,3 +32,9 @@ Write the answer into the file `/root/0x01_emacs/cutting`.
 What is the command to paste?
 
 Write the answer into the file `/root/0x01_emacs/pasting`.
+
+
+## 5. Searching 
+What is the command to search forward?
+
+Write the answer into the file `/root/0x01_emacs/searching`.
