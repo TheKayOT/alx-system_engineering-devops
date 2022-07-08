@@ -13,3 +13,8 @@ root@hex:~# ls -l /root/0x01_emacs/opening
 -rw-r--r-- 1 root root 9 Nov 11 04:34 /root/0x01_emacs/opening
 root@hex:~# 
 ```
+
+## 2. Saving 
+What is the command to save a file?
+
+Write the answer into the file `/root/0x01_emacs/saving`.
