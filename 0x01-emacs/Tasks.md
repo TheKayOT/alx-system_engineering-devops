@@ -2,6 +2,7 @@
 ## 0. Create your answer directory
 Navigate to `/root` and create a directory named `0x01_emacs`
 
+
 ## 1. Opening 
 What is the command to open a file from within Emacs?
 
@@ -14,7 +15,14 @@ root@hex:~# ls -l /root/0x01_emacs/opening
 root@hex:~# 
 ```
 
+
 ## 2. Saving 
 What is the command to save a file?
 
 Write the answer into the file `/root/0x01_emacs/saving`.
+
+
+## 3. Cutting 
+What is the command to cut an entire line?
+
+Write the answer into the file `/root/0x01_emacs/cutting`.
