@@ -44,3 +44,9 @@ Write the answer into the file `/root/0x01_emacs/searching`.
 What is the command to undo?
 
 Write the answer into the file `/root/0x01_emacs/undoing`.
+
+
+## 7. Quitting 
+What is the command to quit Emacs?
+
+Write the answer into the file `/root/0x01_emacs/quitting`.
