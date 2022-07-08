@@ -38,3 +38,9 @@ Write the answer into the file `/root/0x01_emacs/pasting`.
 What is the command to search forward?
 
 Write the answer into the file `/root/0x01_emacs/searching`.
+
+
+## 6. Undoing 
+What is the command to undo?
+
+Write the answer into the file `/root/0x01_emacs/undoing`.
