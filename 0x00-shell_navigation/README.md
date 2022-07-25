@@ -1,13 +1,11 @@
 # 0x00. Shell, navigation
-Technologies: Shell, Bash
+Tags: `Shell` `Bash`
 <hr>
 By Guillaume
 <hr>
 Weight: 1 
 <hr>
 Project over - took place from Feb 28, 2022 to Mar 1, 2022
-<hr>
-An auto review will be launched at the deadline
 <hr>
 
 ## Concepts
@@ -63,3 +61,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## Requirements
 - All tasks **must be** done inside the sandbox `Ubuntu 20.04`
 - Your sandbox **must be available at the end of this project** - the Checker will access to it at midnight for running the correction!
+
+<small style='text-align: right'>Copyright © 2022 ALX, All rights reserved.<\small>
