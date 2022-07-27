@@ -1,4 +1,5 @@
-# 0. Create and setup your Git and GitHub account
+# Tasks
+## 0. Create and setup your Git and GitHub account
 You will need Git for this project, you might have to [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer if it’s not done yet.
 - Configure your basic info (name, email) on your local machine – they will be part of your commits. [Tips](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
@@ -27,7 +28,7 @@ You pushed your first file in your **first repository** of the **first task** of
 - File: `README.md`
 
 
-# 1. Hello Ubuntu
+## 1. Hello Ubuntu
 Inside the `zero_day` repo, create a new directory called `0x00-vagrant`. Add a `README.md` file to this directory.
 
 `ssh` into your Ubuntu VM. What does the command `uname` print when you run it without any option?
@@ -40,3 +41,5 @@ Type your answer into a file in the `0x00-vagrant` directory and push it to GitH
 - GitHub repository: `zero_day`
 - Directory: `0x00-vagrant`
 - File: `0-hello_ubuntu`
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

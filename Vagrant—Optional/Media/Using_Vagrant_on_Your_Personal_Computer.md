@@ -56,13 +56,13 @@ Although both VirtualBox and Vagrant are widely used in the industry, it doesnâ€
 - Create your first virtual machine:
     - `$ vagrant init ubuntu/focal64` -> it will generate a Vagrantfile with `base = "ubuntu/focal64"` - *you donâ€™t have to execute this command line everyday, only once, to create a new virtual machine*
 
-    ![Results of vagrant init command on Mac](Images/vagrant_init_Results%E2%80%94Mac.jpg)
+    ![Results of vagrant init command on Mac](./Media/vagrant_init_Results%E2%80%94Mac.jpg)
     - `$ vagrant up` -> it will start your virtual machine
 
-    ![Results of vagrant up command](Images/vagrant_up_Results%E2%80%94Mac.jpg)
+    ![Results of vagrant up command](./Media/vagrant_up_Results%E2%80%94Mac.jpg)
     - `$ vagrant ssh` -> now you are inside your virtual machine.
 
-    ![Results of vagrant ssh command](Images/vagrant_ssh_Results%E2%80%94Mac.jpg)
+    ![Results of vagrant ssh command](./Media/vagrant_ssh_Results%E2%80%94Mac.jpg)
 
 
 ### Windows
@@ -74,18 +74,19 @@ Although both VirtualBox and Vagrant are widely used in the industry, it doesnâ€
 - Add the **Ubuntu 20.04 (Focal)** image to your box list:
     - `C:\Users\julien> vagrant box add ubuntu/focal64` **Warning: this step can take time**
     - Many other images are available [here](https://app.vagrantup.com/boxes/search)
-    - ![Results of vagrant box add command](Images/vagrant_box_add_Results.jpg)
+    - ![Results of vagrant box add command](./Media/vagrant_box_add_Results.jpg)
 - Create your first virtual machine:
     - `C:\Users\julien> vagrant init ubuntu/focal64` -> it will generate a Vagrantfile with `base = "ubuntu/focal64"` -*you donâ€™t have to execute this command line everyday, only once, to create a new virtual machine*
 
-    ![Results of vagrant init command on Windows](Images/vagrant_init_Results%E2%80%94Windows.jpg)
+    ![Results of vagrant init command on Windows](./Media/vagrant_init_Results%E2%80%94Windows.jpg)
     - `C:\Users\julien> vagrant plugin install vagrant-vbguest `-> to avoid issue with the last version of Vagrant (2.2.4 or latest)
     - `C:\Users\julien> vagrant up` -> it will start your virtual machine
 
-    ![Results of vagrant up command on Windows](Images/vagrant_up_Results%E2%80%94Windows.jpg)
+    ![Results of vagrant up command on Windows](./Media/vagrant_up_Results%E2%80%94Windows.jpg)
     - `C:\Users\julien> vagrant ssh` -> now you are inside your virtual machine.
 
-    ![Results of vagrant ssh command on Windows](Images/vagrant_ssh_Results%E2%80%94Windows.jpg)
+    ![Results of vagrant ssh command on Windows](./Media/vagrant_ssh_Results%E2%80%94Windows.jpg)
+
 
 ### Ubuntu
 - Open the Terminal application:
@@ -98,3 +99,5 @@ Although both VirtualBox and Vagrant are widely used in the industry, it doesnâ€
     - `$ vagrant init ubuntu/focal64` -> it will generate a Vagrantfile with `base = "ubuntu/focal64"` - *you donâ€™t have to execute this command line everyday, only once, to create a new virtual machine*
     - `$ vagrant up` -> it will start your virtual machine
     - `$ vagrant ssh` -> now you are inside your virtual machine.
+
+<p align="right"><sub>Copyright Â© 2022 ALX, All rights reserved.</sub></p>
