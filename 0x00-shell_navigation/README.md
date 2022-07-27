@@ -69,4 +69,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - All tasks **must be** done inside the sandbox `Ubuntu 20.04`
 - Your sandbox **must be available at the end of this project** - the Checker will access to it at midnight for running the correction!
 
-<p align="right">Copyright © 2022 ALX, All rights reserved.<\p>
+<p align="right">Copyright © 2022 ALX, All rights reserved.</p>
