@@ -12,7 +12,6 @@ Project over - took place from Feb 28, 2022 to Mar 1, 2022
 ## Concepts
 For this project, we expect you to look at this concept:
 - [Shell](https://alx-intranet.hbtn.io/concepts/9)
-<hr>
 
 
 ## Welcome to the Matrix!
