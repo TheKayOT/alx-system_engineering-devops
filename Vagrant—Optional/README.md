@@ -1,5 +1,5 @@
 # [Optional] Vagrant
-Tags: DevOps, Virtual machine
+Tags: `DevOps`  `Virtual machine`
 <hr>
 By Julien Barbier
 <hr>

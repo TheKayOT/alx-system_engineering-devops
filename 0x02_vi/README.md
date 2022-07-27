@@ -1,5 +1,5 @@
 # 0x02. vi
-Tags: Shell, Editor
+Tags: `Shell` `Editor`
 <hr>
 By Julien Barbier
 <hr>
