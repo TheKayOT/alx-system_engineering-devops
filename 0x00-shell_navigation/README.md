@@ -8,17 +8,20 @@ Weight: 1
 Project over - took place from Feb 28, 2022 to Mar 1, 2022
 <hr>
 
+
 ## Concepts
 For this project, we expect you to look at this concept:
 - [Shell](https://alx-intranet.hbtn.io/concepts/9)
 <hr>
 
+
 ## Welcome to the Matrix!
-![The Matrix](The_Matrix.gif)
+![The Matrix](./Media/The_Matrix.gif)
 
 This project will (probably) be your first experience with an Unix terminal!
 
 For this project, please start and connect to your Sandbox `Ubuntu 20.04`.
+
 
 ## Resources
 **Read or watch:**
@@ -41,8 +44,10 @@ For this project, please start and connect to your Sandbox `Ubuntu 20.04`.
 **Extra resources:**
 - [Linux - /tmp](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html)
 
+
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), **without the help of Google**:
+
 
 ### General
 - How to navigate in an Unix system
@@ -52,14 +57,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to remove a file or directory
 - How to move or copy a file or directory
 
+
 ### Copyright - Plagiarism
 - You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 - You are not allowed to publish any content of this project.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
+
 ## Requirements
 - All tasks **must be** done inside the sandbox `Ubuntu 20.04`
 - Your sandbox **must be available at the end of this project** - the Checker will access to it at midnight for running the correction!
 
-<p align="right">Copyright © 2022 ALX, All rights reserved.</p>
+<p align="right">Copyright © 2022 ALX, All rights reserved.<\p>
