@@ -53,3 +53,5 @@ Write the answer into the file `/root/0x02_vi/beginning_of_the_line`.
 What is the command to move the cursor to the end of the line?
 
 Write the answer into the file `/root/0x02_vi/end_of_the_line`.
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

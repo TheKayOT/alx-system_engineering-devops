@@ -45,3 +45,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Your sandbox **must be available at the end of this project** - the Checker will access to it just after the deadline to run the correction!
 - The answer of a task must be in a specific file
 - Each answer file must contain only the command to execute in Emacs for solving the task. Example: “What is the command to quit without saving changes?” -> the file should contain only `:q!`
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>
