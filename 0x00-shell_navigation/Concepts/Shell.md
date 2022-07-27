@@ -113,3 +113,5 @@ CTRL+W # kills the word behind the cursor
 CTRL+Y # retrieves last deleted string
 CTRL+Z # stops the current command, resume with fg in the foreground or bg in the background
 ```
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

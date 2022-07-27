@@ -67,3 +67,5 @@ Access your sandbox and:
 **Advices**:
 - Don’t forget to validate your current working directory
 - Don’t forget to display the list of directories of your current directory to validate the removal of the directory
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

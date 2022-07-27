@@ -1,4 +1,5 @@
-### Question #0
+# Quiz Questions
+## Question #0
 Which command should you use to display the current path of your current directory?
 - [x] `pwd`
 - [ ] `cd` 
@@ -6,7 +7,8 @@ Which command should you use to display the current path of your current directo
 - [ ] `touch`
 - [ ] `less`
 
-### Question #1
+
+## Question #1
 Which command should you use to list all files of your current directory?
 - [ ] `pwd`
 - [x] `ls`
@@ -14,7 +16,8 @@ Which command should you use to list all files of your current directory?
 - [ ] `less`
 - [ ] `touch`
 
-### Question #2
+
+## Question #2
 Which command should you use to change directory?
 - [ ] `touch`
 - [ ] `ls`
@@ -22,7 +25,8 @@ Which command should you use to change directory?
 - [ ] `less`
 - [x] `cd`
 
-### Question #3
+
+## Question #3
 Which command should you use to display the content of a file?
 - [ ] `pwd`
 - [x] `less`
@@ -30,7 +34,7 @@ Which command should you use to display the content of a file?
 - [ ] `ls`
 - [ ] `touch`
 
-### Question #4
+## Question #4
 Which command should you use to create an empty file?
 - [ ] `pwd`
 - [x] `touch`
@@ -38,7 +42,7 @@ Which command should you use to create an empty file?
 - [ ] `less`
 - [ ] `ls`
 
-### Question #5
+## Question #5
 Which command should you use to copy a file (or directory if additional argument)?
 - [ ] `mkdir`
 - [ ] `rm`
@@ -46,7 +50,8 @@ Which command should you use to copy a file (or directory if additional argument
 - [x] `cp`
 - [ ] `rmdir`
 
-### Question #6
+
+## Question #6
 Which command should you use to rename or move a file (or directory)?
 - [ ] `cp`
 - [x] `mv`
@@ -54,7 +59,8 @@ Which command should you use to rename or move a file (or directory)?
 - [ ] `mkdir`
 - [ ] `rmdir`
 
-### Question #7
+
+## Question #7
 Which command should you use to delete a file (or directory if additional argument)?
 - [ ] `rmdir`
 - [ ] `mv`
@@ -62,7 +68,8 @@ Which command should you use to delete a file (or directory if additional argume
 - [ ] `mkdir`
 - [ ] `cp`
 
-### Question #8
+
+## Question #8
 Which command should you use to create a directory?
 - [ ] `rmdir`
 - [ ] `rm`
@@ -70,10 +77,13 @@ Which command should you use to create a directory?
 - [ ] `cp`
 - [x] `mkdir`
 
-### Question #9
+
+## Question #9
 Which command should you use to delete a directory?
 - [ ] `cp`
 - [ ] `mv`
 - [ ] `rm`
 - [ ] `mkdir`
 - [x] `rmdir`
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>
